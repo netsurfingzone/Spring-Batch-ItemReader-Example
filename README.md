@@ -11,10 +11,10 @@ https://github.com/netsurfingzone/JdbcCursorItemReader-Spring-Batch-Example
 https://github.com/netsurfingzone/Spring-Batch-FlatFileItemReader-Example/
 
 
-FlatFileItemReader -   https://www.netsurfingzone.com/spring-batch/spring-batch-flatfileitemreader-example/
-JdbcCursorItemReader - https://www.netsurfingzone.com/spring-boot/jdbccursoritemreader-spring-batch-example/
-JsonItemReader -       https://www.netsurfingzone.com/spring-batch/jsonitemreader-spring-batch-example/
-StaxEventItemReader -  https://www.netsurfingzone.com/spring-batch/staxeventitemreader-example/
-JdbcPagingItemReader - https://www.netsurfingzone.com/spring-batch/jdbcpagingitemreader-spring-batch-example/
-JpaPagingItemReader -  https://www.netsurfingzone.com/spring-batch/jpapagingitemreader-example/
-StoredProcedureItemReader -  https://www.netsurfingzone.com/spring-batch/storedprocedureitemreader-example/.
+https://www.netsurfingzone.com/spring-batch/spring-batch-flatfileitemreader-example/
+https://www.netsurfingzone.com/spring-boot/jdbccursoritemreader-spring-batch-example/
+https://www.netsurfingzone.com/spring-batch/jsonitemreader-spring-batch-example/
+https://www.netsurfingzone.com/spring-batch/staxeventitemreader-example/
+https://www.netsurfingzone.com/spring-batch/jdbcpagingitemreader-spring-batch-example/
+https://www.netsurfingzone.com/spring-batch/jpapagingitemreader-example/
+https://www.netsurfingzone.com/spring-batch/storedprocedureitemreader-example/.

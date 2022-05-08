@@ -10,6 +10,7 @@ https://github.com/netsurfingzone/JdbcCursorItemReader-Spring-Batch-Example
 
 https://github.com/netsurfingzone/Spring-Batch-FlatFileItemReader-Example/
 
+Most freaquently used Spring Batch ItemReader examples.
 
 https://www.netsurfingzone.com/spring-batch/spring-batch-flatfileitemreader-example/
 
